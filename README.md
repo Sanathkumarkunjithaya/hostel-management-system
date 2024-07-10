@@ -2,7 +2,7 @@
 # Hostel Management System
 
 ## Overview
-The Hostel Management System is a Java-based application designed to manage hostel operations effectively. It provides functionalities for managing rooms, guests, and other hostel-related activities, ensuring a streamlined and efficient management process.
+The Hostel Management System is a Java-based application designed to manage hostel operations effectively. It provides functionalities for managing rooms, fees, and other hostel-related activities, ensuring a streamlined and efficient management process.
 
 ## Features
 - Room Management: Add, update, and delete room details.
