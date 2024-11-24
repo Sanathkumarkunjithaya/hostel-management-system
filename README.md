@@ -41,8 +41,6 @@ The Hostel Management System is a Java-based application designed to manage host
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 For any questions or inquiries, please contact Sanathkumarkunjithaya.
